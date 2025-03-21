@@ -130,5 +130,9 @@ dmypy.json
 
 # macOS
 .DS_Store
-dags
 .vscode/settings.json
+dialogs.csv
+group_log.csv
+members.csv
+groups.csv
+users.csv

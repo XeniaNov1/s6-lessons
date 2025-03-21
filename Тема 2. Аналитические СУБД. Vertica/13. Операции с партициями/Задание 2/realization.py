@@ -1,1 +1,1 @@
-vertica_user = 'укажите свой логин'
+vertica_user = 'STV2025021827'
